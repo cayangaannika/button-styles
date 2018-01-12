@@ -12,6 +12,14 @@ div {
   text-align: center;
 }
 
+  display: inline-block;
+  padding: .4em .75em .3em;
+  background-color: #333;
+  color: #fff;
+  border-radius: 8px;
+  border: 3px solid #333;
+  font-size: 1.125rem;
+  text-decoration: none;
 }
 
 .btn-small {
